@@ -22,3 +22,4 @@ Search this path on your browser - "http://localhost/SocietyManagementSystem/Log
 Search this path on your browser - "http://localhost/SocietyManagementSystem/admin/"
 Email - admin@gmail.com
 Password - 1234567
+
