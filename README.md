@@ -1,6 +1,6 @@
 # SocietyManagaementSystem
 
-How to run Society Management System
+# How to run Society Management System
 
 First download RAR file on your system & extract it to "C:\xampp\htdocs" this path
 
