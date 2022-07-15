@@ -13,3 +13,12 @@ Open phpmyadmin & Create Database "societymanagementsystem", import Database fro
 
 # Run as a USER
 Search this path on your browser - "http://localhost/SocietyManagementSystem/Login.php"
+
+![Screenshot (90)](https://user-images.githubusercontent.com/97380236/179223548-782e1ec8-d0f3-4b38-af8b-013a42d5bc35.png)
+
+![Uploading Screenshot (91).png…]()
+
+# Run as an ADMIN 
+Search this path on your browser - "http://localhost/SocietyManagementSystem/admin/"
+Email - admin@gmail.com
+Password - 1234567
